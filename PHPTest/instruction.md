@@ -8,7 +8,7 @@ Please take note that your codes will be evaluated and if found 80% are copied f
 
 ## Series of Test
 
-1. Do codings
+* Do codings
 
 ** Create a php function that will accept a array and a given string. String must be a existing content(value) from the array. The function must return the zero level index of the given string. Code must be shortened as possible.
 
@@ -40,27 +40,25 @@ output: 'sugar'
 
 ** Create your own sample applying the concept of the following.
 
-*** Dependency Injection
-*** Namespacing
-*** Application of Composer
-*** Class Inheritance
+1. Dependency Injection
+2. Namespacing
+3. Application of Composer
+4. Class Inheritance
 
-2. With your own words, explain the following:
+* With your own words, explain the following:
 
-** SPL
-** Packagist
-** Memcached vs Memcache
-** PHP-FPM vs PHP-FastCGI
+1. SPL
+2. Packagist
+3. Memcached vs Memcache
+4. PHP-FPM vs PHP-FastCGI
 
-3. Give at least 5 well known PHP Frameworks you know
+* Give at least 5 well known PHP Frameworks you know
 
-4. Describe with your own words the HHVM
-
-
+* Describe with your own words the HHVM
 
 
 ## Resources
 
-** http://www.phptherightway.com
-** http://php.net
-** https://getcomposer.org/
+* http://www.phptherightway.com
+* http://php.net
+* https://getcomposer.org/

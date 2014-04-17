@@ -12,31 +12,33 @@ Please take note that your codes will be evaluated and if found 80% are copied f
 
 Just create a TODO application that uses HTML5 LocalStorage. Use jQuery for DOM manipulation.
 
->> Time Completion: 1 hour
+> Time Completion: 1 hour
 
 # A bouncing ball.
 
 Just make a bouncing ball on the screen. Only pure CSS+Javascript+HTML5 only.
 
->> Time Completion: 1-2 hours
+> Time Completion: 1-2 hours
 
 Hints:
-** jQuery Animation
-** HTML5 Canvass
+
+* jQuery Animation
+* HTML5 Canvass
 
 # Advance CV
 
 Just make a one page curriculum vitae that showcases yourself, dummy contents are ok. Page must have the following:
-** Have Parallax background
-** Have a goto top link below(must be in smooth scrolling)
-** Masonry style of displaying projects(thumbnail images with captions)
-** Sliding customer feedbacks/testimonials
 
->> Time Completion: 3-5 hours
+* Have Parallax background
+* Have a goto top link below(must be in smooth scrolling)
+* Masonry style of displaying projects(thumbnail images with captions)
+* Sliding customer feedbacks/testimonials
+
+> Time Completion: 3-5 hours
 
 
 ## Resources
 
-** http://initializr.com
-** http://jquery.com
-** http://kineticjs.com/
+* http://initializr.com
+* http://jquery.com
+* http://kineticjs.com/

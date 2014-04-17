@@ -11,10 +11,13 @@ Please take note that your codes will be evaluated and if found 80% are copied f
 Note: use sqlite if database is needed.
 
 # Create a simple blog
+
 Use the `/blog`
+
 # Create a todo app with REST concept and using Backbone.js
+
 Use the `/todo`
 
 ## Resources
 
-** http://laravel.com/
+* http://laravel.com/
