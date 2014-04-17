@@ -1,20 +1,20 @@
-### FrontEnd Developer Test
+## FrontEnd Developer Test
 
-## Instruction
+### Instruction
 
 First fork this on github. Choose from any set below and do it. Create a folder in line with this file, named it with your name and put your files on it. After you are done submit the fork link to us at me@josephlacerna.com
 
 Please take note that your codes will be evaluated and if found 80% are copied from any resources, your entry will be void.
 
-## Sets
+### Sets
 
-# TODO application using HTML5+jQuery.
+#### TODO application using HTML5+jQuery.
 
 Just create a TODO application that uses HTML5 LocalStorage. Use jQuery for DOM manipulation.
 
 > Time Completion: 1 hour
 
-# A bouncing ball.
+#### A bouncing ball.
 
 Just make a bouncing ball on the screen. Only pure CSS+Javascript+HTML5 only.
 
@@ -25,7 +25,7 @@ Hints:
 * jQuery Animation
 * HTML5 Canvass
 
-# Advance CV
+#### Advance CV
 
 Just make a one page curriculum vitae that showcases yourself, dummy contents are ok. Page must have the following:
 
@@ -37,7 +37,7 @@ Just make a one page curriculum vitae that showcases yourself, dummy contents ar
 > Time Completion: 3-5 hours
 
 
-## Resources
+### Resources
 
 * http://initializr.com
 * http://jquery.com

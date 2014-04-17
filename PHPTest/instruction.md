@@ -1,12 +1,12 @@
-### PHP Developer Test
+## PHP Developer Test
 
-## Instruction
+### Instruction
 
 First fork this on github. Complete the series of test below, you have 2 hours to complete it. Create a folder in line with this file, named it with your name and put your files on it. After you are done submit the fork link to us at me@josephlacerna.com
 
 Please take note that your codes will be evaluated and if found 80% are copied from any resources, your entry will be void.
 
-## Series of Test
+### Series of Test
 
 * Do codings
 
@@ -57,7 +57,7 @@ output: 'sugar'
 * Describe with your own words the HHVM
 
 
-## Resources
+### Resources
 
 * http://www.phptherightway.com
 * http://php.net
