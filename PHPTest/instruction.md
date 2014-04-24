@@ -8,9 +8,9 @@ Please take note that your codes will be evaluated and if found 80% are copied f
 
 ### Series of Test
 
-* Do codings
+#### Do codings
 
-** Create a php function that will accept a array and a given string. String must be a existing content(value) from the array. The function must return the zero level index of the given string. Code must be shortened as possible.
+##### Create a php function that will accept a array and a given string. String must be a existing content(value) from the array. The function must return the zero level index of the given string. Code must be shortened as possible.
 
 Example:
 ```
@@ -29,7 +29,7 @@ given: 'candy';
 output: 'sugar'
 ```
 
-** Display the following set asterisks below. Code must be shortened as possible
+##### Display the following set asterisks below. Code must be shortened as possible
 
 ```
 *          *          *
@@ -38,23 +38,23 @@ output: 'sugar'
 ****    *******    ****
 ```
 
-** Create your own sample applying the concept of the following.
+##### Create your own sample applying the concept of the following.
 
 1. Dependency Injection
 2. Namespacing
 3. Application of Composer
 4. Class Inheritance
 
-* With your own words, explain the following:
+#### With your own words, explain the following:
 
 1. SPL
 2. Packagist
 3. Memcached vs Memcache
 4. PHP-FPM vs PHP-FastCGI
 
-* Give at least 5 well known PHP Frameworks you know
+#### Give at least 5 well known PHP Frameworks you know
 
-* Describe with your own words the HHVM
+#### Describe with your own words the HHVM
 
 
 ### Resources
