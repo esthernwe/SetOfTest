@@ -1,4 +1,4 @@
-SetOfTest
+Set of Test
 =========
 
-Set of test for magente
+Set of test for Magente BPO Co. Ltd
