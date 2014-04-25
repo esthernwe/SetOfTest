@@ -1,0 +1,23 @@
+<?php
+
+$array = array(0 => 'blue', 1 => 'red', 2 => 'green', 3 => 'red');
+$array1 = array('a '=> 'apple', 'b' => 'banana', 'c' => 'cherry');
+$array2 = array('flour' => array('baked' => 'cake', 'cooked'), 'sugar' => array( 'burned', 'melted' => 'candy' ));
+
+
+function array_index ($keyword,$array) {
+	$key = array_search($keyword, $array);
+	return $key;
+}
+
+// 
+$key1 = array_index('green', $array);
+$key2 = array_index('banana', $array1);
+$key3 = array_index('candy', $array2);
+echo $key1;
+echo $key2;
+echo $key3;
+
+
+?>
+
